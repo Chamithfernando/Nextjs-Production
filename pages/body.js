@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function Body({ posts  }) {
 
-   const postMap= [];
+   
 
     if(posts){
-       postMap = posts.map(post => (
+      let postMap = posts.map(post => (
             
             <li key={post.id} className="list-group-item">
               {post.id} -- {post.title}
