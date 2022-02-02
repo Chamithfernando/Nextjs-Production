@@ -57,7 +57,7 @@ const [collection, setCollection] = React.useState(
     <div className="App">
       <Text
       h1
-      size={30}
+      size={40}
       css={{
         textGradient: '45deg, $purple500 -20%, $pink500 100%'
       }}
