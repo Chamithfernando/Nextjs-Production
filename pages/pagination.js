@@ -57,13 +57,13 @@ const [collection, setCollection] = React.useState(
     <div className="App">
       <Text
       h1
-      size={60}
+      size={30}
       css={{
         textGradient: '45deg, $purple500 -20%, $pink500 100%'
       }}
       weight="bold"
     >
-      Make the next.js pagination with data from axios by using react hooks
+      Make the next.js pagination axios and react hooks
     </Text>
       {loading ? (<Loading size="xl"/>) :(
         <Body posts={collection} />
