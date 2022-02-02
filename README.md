@@ -4,7 +4,7 @@
 <h1 align="center">Demo : https://nextjs-last.herokuapp.com/</h1>
 
 <p align="center">
-  <a href="https://github.com/Chamithfernando"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/Chamithfernando"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="chamith's github stats"></a>
 </p>
 
 <p align="center">
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [edisonlee55](https://github.com/Chamithfernando)
+Credits: [chamith](https://github.com/Chamithfernando)
 
 Last Edited on: 01/03/2022
